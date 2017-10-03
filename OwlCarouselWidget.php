@@ -5,7 +5,7 @@
  * @license   https://github.com/kv4nt/yii2-owl-carousel2/blob/master/LICENSE.md
  */
 
-namespace kv4nt\owlcarousel;
+namespace shoomlix\owlcarousel;
 
 use yii\helpers\Html;
 
