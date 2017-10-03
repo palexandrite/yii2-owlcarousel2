@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist kv4nt/yii2-owl-carousel2 "*"
+php composer.phar require --prefer-dist shoomlix/yii2-owl-carousel2 "*"
 ```
 
 or add
 
 ```
-"kv4nt/yii2-owl-carousel2": "*"
+"shoomlix/yii2-owl-carousel2": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -37,7 +37,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?php
-use kv4nt\owlcarousel\OwlCarouselWidget;
+use shoomlix\owlcarousel\OwlCarouselWidget;
 
 OwlCarouselWidget::begin([
     'container' => 'div',
